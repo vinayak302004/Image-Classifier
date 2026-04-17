@@ -34,8 +34,8 @@ It classifies images into 10 classes from the CIFAR-10 dataset.
 ### 1. Clone Repository
 
 ```bash
-git clone hhttps://github.com/vinayak302004/Image-Classifier.git
-cd Image_Classifier
+git clone https://github.com/vinayak302004/Image-Classifier.git
+cd Image-Classifier
 ```
 
 ---
@@ -49,6 +49,12 @@ pip install -r requirements.txt
 ---
 
 ## 🚀 Run the Project
+
+### Step 1: Train Model
+
+```bash
+python train_and_predict.py
+```
 
 ### ✅ Step 1: Start Backend
 
